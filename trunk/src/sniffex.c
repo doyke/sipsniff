@@ -2,7 +2,7 @@
 
 // Le istruzioni di compilazione e di funzionamento sono alla fine del file
 
-#define APP_NAME		"sipsniff"
+#define APP_NAME		"sniff"
 #define APP_DESC		"Sniffer example using libpcap"
 #define APP_COPYRIGHT	"Copyright (c) 2005 The Tcpdump Group"
 #define APP_DISCLAIMER	"THERE IS ABSOLUTELY NO WARRANTY FOR THIS PROGRAM."
